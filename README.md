@@ -1,2 +1,15 @@
-# tindog-bootstrap
-this is one of my web dev projects.
+# TinDog 🐶💘
+
+A simple responsive landing page for a fictional Tinder app for dogs.
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- Bootstrap 5
+
+## 📸 Preview
+![Screenshot](screenshot.png)
+
+## 🚀 Live Demo
+[Click here to view]()
+
