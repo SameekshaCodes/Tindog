@@ -8,5 +8,5 @@ A simple responsive landing page for a fictional Tinder app for dogs.
 - Bootstrap 5
 
 ## 🚀 Live Demo
-[Click here to view](https://sameekshacodes.github.io/tindog-bootstrap/)
+[Click here to view](https://sameekshacodes.github.io/Tindog)
 
